@@ -1,1 +1,3 @@
-"# useful_scripts" 
+# Useful Scripts
+
+A collection of useful scripts
